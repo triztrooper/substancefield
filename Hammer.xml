@@ -8,7 +8,7 @@
     <NAME>HAMMER</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE>steel</STRUCTURE>
-    <X>-20</X>
+    <X>-15</X>
     <Y>0</Y>
     <NODE>
       <ID>0</ID>
@@ -34,7 +34,7 @@
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
     <X>0</X>
-    <Y>0</Y>
+    <Y>15</Y>
     <NODE>
       <ID>3</ID>
       <LINKTILE>0</LINKTILE>
@@ -44,7 +44,7 @@
       <OPERATION>-1</OPERATION>
     </NODE>
     <NODE>
-      <ID>1</ID>
+      <ID>2</ID>
       <LINKTILE>2</LINKTILE>
       <LINKNODE>5</LINKNODE>
       <VERB>drives</VERB>
@@ -58,7 +58,7 @@
     <NAME>NAIL</NAME>
     <RESOURCE>20</RESOURCE>
     <STRUCTURE>iron</STRUCTURE>
-    <X>20</X>
+    <X>15</X>
     <Y>0</Y>
     <NODE>
       <ID>5</ID>
