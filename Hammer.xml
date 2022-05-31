@@ -8,7 +8,7 @@
     <NAME>HAMMER</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE>steel</STRUCTURE>
-    <X>-10</X>
+    <X>-20</X>
     <Y>0</Y>
     <NODE>
       <ID>0</ID>
@@ -58,7 +58,7 @@
     <NAME>NAIL</NAME>
     <RESOURCE>20</RESOURCE>
     <STRUCTURE>iron</STRUCTURE>
-    <X>10</X>
+    <X>20</X>
     <Y>0</Y>
     <NODE>
       <ID>5</ID>
