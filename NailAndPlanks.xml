@@ -125,6 +125,14 @@
       <VALUE>-1</VALUE>
       <OPERATION>-1</OPERATION>
     </NODE>
+    <NODE>
+      <ID>1</ID>
+      <LINKTILE>1</LINKTILE>
+      <LINKNODE>4</LINKNODE>
+      <VERB></VERB>
+      <VALUE>-1</VALUE>
+      <OPERATION>-1</OPERATION>
+    </NODE>
   </TILE>
   <TILE>
     <ID>4</ID>
