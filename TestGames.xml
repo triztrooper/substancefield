@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GAMES>
+	<GAME>
+		<NAME>HAMMER</NAME>
+		<URL>https://raw.githubusercontent.com/triztrooper/substancefield/main/Hammer.xml</URL>
+	</GAME>
+	<GAME>
+		<NAME>PLANKS</NAME>
+		<URL>https://raw.githubusercontent.com/triztrooper/substancefield/main/NailAndPlanks.xml</URL>
+	</GAME>
+	<GAME>
+		<NAME>STEAM TRAIN</NAME>
+		<URL>https://raw.githubusercontent.com/triztrooper/substancefield/main/SteamTrain.xml</URL>
+	</GAME>
+	<GAME>
+		<NAME>THE KING</NAME>
+		<URL>https://raw.githubusercontent.com/triztrooper/substancefield/main/TheKing.xml</URL>
+	</GAME>
+</GAMES>
