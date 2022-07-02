@@ -6,14 +6,14 @@
   <TILE>
     <ID>0</ID>
     <TYPE>0</TYPE>
-    <NAME>HAMMER</NAME>
-    <RESOURCE>4</RESOURCE>
+    <NAME>PENDULUM</NAME>
+    <RESOURCE>8</RESOURCE>
     <STRUCTURE>steel</STRUCTURE>
-    <X>-5</X>
-    <Y>0</Y>
+    <X>-24</X>
+    <Y>-10</Y>
     <NODE>
       <ID>0</ID>
-      <LINKTILE>1</LINKTILE>
+      <LINKTILE>3</LINKTILE>
       <LINKNODE>3</LINKNODE>
       <VERB></VERB>
       <VALUE>-1</VALUE>
@@ -21,58 +21,16 @@
     </NODE>
     <NODE>
       <ID>1</ID>
-      <LINKTILE>2</LINKTILE>
+      <LINKTILE>1</LINKTILE>
       <LINKNODE>4</LINKNODE>
       <VERB></VERB>
       <VALUE>-1</VALUE>
       <OPERATION>-1</OPERATION>
     </NODE>
-  </TILE>
-  <TILE>
-    <ID>1</ID>
-    <TYPE>1</TYPE>
-    <NAME>FORCE</NAME>
-    <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
-    <X>0</X>
-    <Y>5</Y>
-    <NODE>
-      <ID>3</ID>
-      <LINKTILE>0</LINKTILE>
-      <LINKNODE>0</LINKNODE>
-      <VERB></VERB>
-      <VALUE>-1</VALUE>
-      <OPERATION>-1</OPERATION>
-    </NODE>
-    <NODE>
-      <ID>2</ID>
-      <LINKTILE>2</LINKTILE>
-      <LINKNODE>5</LINKNODE>
-      <VERB>drives</VERB>
-      <VALUE>5</VALUE>
-      <OPERATION>0</OPERATION>
-    </NODE>
-  </TILE>
-  <TILE>
-    <ID>2</ID>
-    <TYPE>0</TYPE>
-    <NAME>NAIL</NAME>
-    <RESOURCE>20</RESOURCE>
-    <STRUCTURE>iron</STRUCTURE>
-    <X>5</X>
-    <Y>0</Y>
     <NODE>
       <ID>5</ID>
-      <LINKTILE>1</LINKTILE>
+      <LINKTILE>2</LINKTILE>
       <LINKNODE>2</LINKNODE>
-      <VERB></VERB>
-      <VALUE>-1</VALUE>
-      <OPERATION>-1</OPERATION>
-    </NODE>
-    <NODE>
-      <ID>4</ID>
-      <LINKTILE>0</LINKTILE>
-      <LINKNODE>1</LINKNODE>
       <VERB></VERB>
       <VALUE>-1</VALUE>
       <OPERATION>-1</OPERATION>
