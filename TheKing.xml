@@ -9,8 +9,8 @@
     <NAME>PENDULUM</NAME>
     <RESOURCE>8</RESOURCE>
     <STRUCTURE>steel</STRUCTURE>
-    <X>-24</X>
-    <Y>-10</Y>
+    <X>24</X>
+    <Y>10</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>3</LINKTILE>
@@ -42,8 +42,8 @@
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>-18</X>
-    <Y>-10</Y>
+    <X>18</X>
+    <Y>10</Y>
     <NODE>
       <ID>4</ID>
       <LINKTILE>0</LINKTILE>
@@ -67,8 +67,8 @@
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>-24</X>
-    <Y>5</Y>
+    <X>24</X>
+    <Y>-5</Y>
     <NODE>
       <ID>1</ID>
       <LINKTILE>3</LINKTILE>
@@ -92,8 +92,8 @@
     <NAME>ESCAPEWHEEL</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE>steel</STRUCTURE>
-    <X>-20</X>
-    <Y>5</Y>
+    <X>20</X>
+    <Y>-5</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>6</LINKTILE>
@@ -149,8 +149,8 @@
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>-14</X>
-    <Y>-5</Y>
+    <X>14</X>
+    <Y>5</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>7</LINKTILE>
@@ -182,8 +182,8 @@
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>-22</X>
-    <Y>5</Y>
+    <X>22</X>
+    <Y>-5</Y>
     <NODE>
       <ID>1</ID>
       <LINKTILE>6</LINKTILE>
@@ -207,7 +207,7 @@
     <NAME>DRIVE WHEEL</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE>steel</STRUCTURE>
-    <X>-18</X>
+    <X>18</X>
     <Y>0</Y>
     <NODE>
       <ID>0</ID>
@@ -264,7 +264,7 @@
     <NAME>HANDS</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE>brass</STRUCTURE>
-    <X>-12</X>
+    <X>12</X>
     <Y>0</Y>
     <NODE>
       <ID>1</ID>
@@ -305,8 +305,8 @@
     <NAME>SPRING</NAME>
     <RESOURCE>1</RESOURCE>
     <STRUCTURE>steel</STRUCTURE>
-    <X>-20</X>
-    <Y>5</Y>
+    <X>20</X>
+    <Y>-5</Y>
     <NODE>
       <ID>1</ID>
       <LINKTILE>9</LINKTILE>
@@ -330,8 +330,8 @@
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>-14</X>
-    <Y>5</Y>
+    <X>14</X>
+    <Y>-5</Y>
     <NODE>
       <ID>3</ID>
       <LINKTILE>6</LINKTILE>
@@ -355,8 +355,8 @@
     <NAME>POSITION</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>-10</X>
-    <Y>-5</Y>
+    <X>10</X>
+    <Y>5</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>12</LINKTILE>
@@ -380,8 +380,8 @@
     <NAME>VOLTAGE</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>electrical</STRUCTURE>
-    <X>-10</X>
-    <Y>5</Y>
+    <X>10</X>
+    <Y>-5</Y>
     <NODE>
       <ID>1</ID>
       <LINKTILE>14</LINKTILE>
@@ -405,7 +405,7 @@
     <NAME>WIRES</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE>copper</STRUCTURE>
-    <X>-8</X>
+    <X>8</X>
     <Y>0</Y>
     <NODE>
       <ID>0</ID>
@@ -462,8 +462,8 @@
     <NAME>BATTERY</NAME>
     <RESOURCE>1</RESOURCE>
     <STRUCTURE>chemistry</STRUCTURE>
-    <X>-4</X>
-    <Y>-5</Y>
+    <X>4</X>
+    <Y>5</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>15</LINKTILE>
@@ -487,8 +487,8 @@
     <NAME>DETONATOR</NAME>
     <RESOURCE>8</RESOURCE>
     <STRUCTURE>chemistry</STRUCTURE>
-    <X>-4</X>
-    <Y>5</Y>
+    <X>4</X>
+    <Y>-5</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>17</LINKTILE>
@@ -528,7 +528,7 @@
     <NAME>POWER</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>-2</X>
+    <X>2</X>
     <Y>0</Y>
     <NODE>
       <ID>3</ID>
@@ -553,8 +553,8 @@
     <NAME>EXPLOSIVE</NAME>
     <RESOURCE>16</RESOURCE>
     <STRUCTURE>chemistry</STRUCTURE>
-    <X>0</X>
-    <Y>5</Y>
+    <X>5</X>
+    <Y>-5</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>18</LINKTILE>
@@ -594,8 +594,8 @@
     <NAME>HEAT</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>thermal</STRUCTURE>
-    <X>-2</X>
-    <Y>10</Y>
+    <X>2</X>
+    <Y>-10</Y>
     <NODE>
       <ID>2</ID>
       <LINKTILE>16</LINKTILE>
@@ -619,8 +619,8 @@
     <NAME>PRESSURE</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>2</X>
-    <Y>10</Y>
+    <X>-2</X>
+    <Y>-10</Y>
     <NODE>
       <ID>2</ID>
       <LINKTILE>19</LINKTILE>
@@ -644,8 +644,8 @@
     <NAME>STRENGTH</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>4</X>
-    <Y>5</Y>
+    <X>-4</X>
+    <Y>-5</Y>
     <NODE>
       <ID>2</ID>
       <LINKTILE>21</LINKTILE>
@@ -685,7 +685,7 @@
     <NAME>ABUTMENT</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE>stone</STRUCTURE>
-    <X>5</X>
+    <X>-5</X>
     <Y>0</Y>
     <NODE>
       <ID>0</ID>
@@ -710,7 +710,7 @@
     <NAME>BRIDGE</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE>steel</STRUCTURE>
-    <X>6</X>
+    <X>-6</X>
     <Y>0</Y>
     <NODE>
       <ID>0</ID>
@@ -751,8 +751,8 @@
     <NAME>STRENGTH</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>8</X>
-    <Y>5</Y>
+    <X>-8</X>
+    <Y>-5</Y>
     <NODE>
       <ID>2</ID>
       <LINKTILE>23</LINKTILE>
@@ -776,7 +776,7 @@
     <NAME>WHEELS</NAME>
     <RESOURCE>16</RESOURCE>
     <STRUCTURE>steel</STRUCTURE>
-    <X>10</X>
+    <X>-10</X>
     <Y>0</Y>
     <NODE>
       <ID>0</ID>
@@ -833,8 +833,8 @@
     <NAME>CARRIAGE</NAME>
     <RESOURCE>16</RESOURCE>
     <STRUCTURE>steel</STRUCTURE>
-    <X>8</X>
-    <Y>-5</Y>
+    <X>-8</X>
+    <Y>5</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>23</LINKTILE>
@@ -874,8 +874,8 @@
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>6</X>
-    <Y>-10</Y>
+    <X>-6</X>
+    <Y>10</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>24</LINKTILE>
@@ -899,8 +899,8 @@
     <NAME>THE KING</NAME>
     <RESOURCE>32</RESOURCE>
     <STRUCTURE>person</STRUCTURE>
-    <X>10</X>
-    <Y>-10</Y>
+    <X>-10</X>
+    <Y>10</Y>
     <NODE>
       <ID>4</ID>
       <LINKTILE>25</LINKTILE>
@@ -924,8 +924,8 @@
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>12</X>
-    <Y>-5</Y>
+    <X>-12</X>
+    <Y>5</Y>
     <NODE>
       <ID>4</ID>
       <LINKTILE>24</LINKTILE>
@@ -949,7 +949,7 @@
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>14</X>
+    <X>-14</X>
     <Y>0</Y>
     <NODE>
       <ID>4</ID>
@@ -974,8 +974,8 @@
     <NAME>PISTON</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE>solid</STRUCTURE>
-    <X>12</X>
-    <Y>5</Y>
+    <X>-12</X>
+    <Y>-5</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>31</LINKTILE>
@@ -1015,8 +1015,8 @@
     <NAME>PRESSURE</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>12</X>
-    <Y>10</Y>
+    <X>-12</X>
+    <Y>-10</Y>
     <NODE>
       <ID>1</ID>
       <LINKTILE>31</LINKTILE>
@@ -1040,8 +1040,8 @@
     <NAME>WATER</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE>liquid</STRUCTURE>
-    <X>14</X>
-    <Y>10</Y>
+    <X>-14</X>
+    <Y>-10</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>35</LINKTILE>
@@ -1097,8 +1097,8 @@
     <NAME>TANK</NAME>
     <RESOURCE>1</RESOURCE>
     <STRUCTURE>steel</STRUCTURE>
-    <X>12</X>
-    <Y>15</Y>
+    <X>-12</X>
+    <Y>-15</Y>
     <NODE>
       <ID>1</ID>
       <LINKTILE>35</LINKTILE>
@@ -1122,8 +1122,8 @@
     <NAME>HEAT</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>thermal</STRUCTURE>
-    <X>16</X>
-    <Y>5</Y>
+    <X>-16</X>
+    <Y>-5</Y>
     <NODE>
       <ID>2</ID>
       <LINKTILE>31</LINKTILE>
@@ -1147,8 +1147,8 @@
     <NAME>COAL</NAME>
     <RESOURCE>1</RESOURCE>
     <STRUCTURE>solid</STRUCTURE>
-    <X>18</X>
-    <Y>10</Y>
+    <X>-18</X>
+    <Y>-10</Y>
     <NODE>
       <ID>0</ID>
       <LINKTILE>36</LINKTILE>
@@ -1188,8 +1188,8 @@
     <NAME>STRENGTH</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>mechanical</STRUCTURE>
-    <X>16</X>
-    <Y>15</Y>
+    <X>-16</X>
+    <Y>-15</Y>
     <NODE>
       <ID>3</ID>
       <LINKTILE>31</LINKTILE>
@@ -1213,8 +1213,8 @@
     <NAME>HEAT</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE>thermal</STRUCTURE>
-    <X>16</X>
-    <Y>15</Y>
+    <X>-16</X>
+    <Y>-15</Y>
     <NODE>
       <ID>2</ID>
       <LINKTILE>37</LINKTILE>
@@ -1238,8 +1238,8 @@
     <NAME>MATCH</NAME>
     <RESOURCE>0.5</RESOURCE>
     <STRUCTURE>wood</STRUCTURE>
-    <X>22</X>
-    <Y>10</Y>
+    <X>-22</X>
+    <Y>-10</Y>
     <NODE>
       <ID>4</ID>
       <LINKTILE>34</LINKTILE>
