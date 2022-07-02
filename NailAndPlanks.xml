@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SOLUTION>
   <SOLTIONNAME>NAILS AND PLANKS</SOLTIONNAME>
-  <EXPLANATION>https://www.youtube.com/c/Howtosolveproblems</EXPLANATION>
+  <EXPLANATION>Thanks for testing this! Click on this text to find out more.</EXPLANATION>
+  <URL>https://www.youtube.com/c/Howtosolveproblems</URL>
   <TILE>
     <ID>0</ID>
     <TYPE>0</TYPE>
