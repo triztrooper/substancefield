@@ -8,7 +8,7 @@
     <TYPE>0</TYPE>
     <NAME>HAMMER</NAME>
     <RESOURCE>4</RESOURCE>
-    <STRUCTURE>steel</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-10</X>
     <Y>0</Y>
     <NODE>
@@ -33,7 +33,7 @@
     <TYPE>1</TYPE>
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-8</X>
     <Y>0</Y>
     <NODE>
@@ -74,7 +74,7 @@
     <TYPE>0</TYPE>
     <NAME>NAIL</NAME>
     <RESOURCE>120</RESOURCE>
-    <STRUCTURE>iron</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-6</X>
     <Y>0</Y>
     <NODE>
@@ -115,7 +115,7 @@
     <TYPE>0</TYPE>
     <NAME>HANDLE</NAME>
     <RESOURCE>2</RESOURCE>
-    <STRUCTURE>wood</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>6</X>
     <Y>0</Y>
     <NODE>
@@ -140,7 +140,7 @@
     <TYPE>1</TYPE>
     <NAME>LENGTH</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>3</X>
     <Y>0</Y>
     <NODE>
@@ -165,7 +165,7 @@
     <TYPE>1</TYPE>
     <NAME>STRENGTH</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>3</X>
     <Y>-3</Y>
     <NODE>
@@ -190,7 +190,7 @@
     <TYPE>0</TYPE>
     <NAME>PLANKS</NAME>
     <RESOURCE>20</RESOURCE>
-    <STRUCTURE>wood</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>5</X>
     <Y>-3</Y>
     <NODE>
