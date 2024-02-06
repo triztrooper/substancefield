@@ -8,7 +8,7 @@
     <TYPE>0</TYPE>
     <NAME>MATCH</NAME>
     <RESOURCE>1</RESOURCE>
-    <STRUCTURE>wood</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-10</X>
     <Y>0</Y>
     <NODE>
@@ -33,7 +33,7 @@
     <TYPE>1</TYPE>
     <NAME>HEAT</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>thermal</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-8</X>
     <Y>0</Y>
     <NODE>
@@ -58,7 +58,7 @@
     <TYPE>0</TYPE>
     <NAME>COAL</NAME>
     <RESOURCE>1</RESOURCE>
-    <STRUCTURE>solid</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-6</X>
     <Y>0</Y>
     <NODE>
@@ -99,7 +99,7 @@
     <TYPE>1</TYPE>
     <NAME>STRENGTH</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-4</X>
     <Y>0</Y>
     <NODE>
@@ -124,7 +124,7 @@
     <TYPE>1</TYPE>
     <NAME>HEAT</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>thermal</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-2</X>
     <Y>0</Y>
     <NODE>
@@ -149,7 +149,7 @@
     <TYPE>0</TYPE>
     <NAME>WATER</NAME>
     <RESOURCE>2</RESOURCE>
-    <STRUCTURE>liquid</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>0</X>
     <Y>0</Y>
     <NODE>
@@ -206,7 +206,7 @@
     <TYPE>0</TYPE>
     <NAME>TANK</NAME>
     <RESOURCE>1</RESOURCE>
-    <STRUCTURE>solid</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>2</X>
     <Y>0</Y>
     <NODE>
@@ -231,7 +231,7 @@
     <TYPE>1</TYPE>
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>4</X>
     <Y>0</Y>
     <NODE>
@@ -256,7 +256,7 @@
     <TYPE>0</TYPE>
     <NAME>PISTON</NAME>
     <RESOURCE>2</RESOURCE>
-    <STRUCTURE>solid</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>6</X>
     <Y>0</Y>
     <NODE>
@@ -297,7 +297,7 @@
     <TYPE>1</TYPE>
     <NAME>PRESSURE</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>6</X>
     <Y>2</Y>
     <NODE>
@@ -338,7 +338,7 @@
     <TYPE>1</TYPE>
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>4</X>
     <Y>2</Y>
     <NODE>
@@ -363,7 +363,7 @@
     <TYPE>0</TYPE>
     <NAME>WHEELS</NAME>
     <RESOURCE>2</RESOURCE>
-    <STRUCTURE>solid</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>2</X>
     <Y>2</Y>
     <NODE>
@@ -420,7 +420,7 @@
     <TYPE>0</TYPE>
     <NAME>VALVE</NAME>
     <RESOURCE>2</RESOURCE>
-    <STRUCTURE>solid</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>0</X>
     <Y>2</Y>
     <NODE>
@@ -461,7 +461,7 @@
     <TYPE>1</TYPE>
     <NAME>POSITION</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-2</X>
     <Y>2</Y>
     <NODE>
@@ -486,7 +486,7 @@
     <TYPE>0</TYPE>
     <NAME>CARGO</NAME>
     <RESOURCE>1</RESOURCE>
-    <STRUCTURE>solid</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-4</X>
     <Y>2</Y>
     <NODE>
@@ -511,7 +511,7 @@
     <TYPE>0</TYPE>
     <NAME>CHASSIS</NAME>
     <RESOURCE>1</RESOURCE>
-    <STRUCTURE>solid</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-4</X>
     <Y>-2</Y>
     <NODE>
@@ -552,7 +552,7 @@
     <TYPE>1</TYPE>
     <NAME>SPEED</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>-2</X>
     <Y>-2</Y>
     <NODE>
@@ -577,7 +577,7 @@
     <TYPE>1</TYPE>
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>4</X>
     <Y>-2</Y>
     <NODE>
