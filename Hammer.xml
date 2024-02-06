@@ -33,7 +33,7 @@
     <TYPE>1</TYPE>
     <NAME>FORCE</NAME>
     <RESOURCE>-1</RESOURCE>
-    <STRUCTURE>mechanical</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>0</X>
     <Y>5</Y>
     <NODE>
@@ -58,7 +58,7 @@
     <TYPE>0</TYPE>
     <NAME>NAIL</NAME>
     <RESOURCE>20</RESOURCE>
-    <STRUCTURE>iron</STRUCTURE>
+    <STRUCTURE></STRUCTURE>
     <X>5</X>
     <Y>0</Y>
     <NODE>
