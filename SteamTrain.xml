@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SOLUTION>
   <SOLUTIONNAME>STEAM ENGINE</SOLUTIONNAME>
-  <EXPLANATION>Thanks for testing this! Click on this text to find out more.</EXPLANATION>
-  <URL>https://www.youtube.com/c/Howtosolveproblems</URL>
+  <EXPLANATION>Well done! Click on this text to find out more.</EXPLANATION>
+  <URL>https://medium.com/@drghart/the-steam-train-20086801f9d1</URL>
   <TILE>
     <ID>0</ID>
     <TYPE>0</TYPE>
