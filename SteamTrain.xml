@@ -11,6 +11,7 @@
     <STRUCTURE></STRUCTURE>
     <X>-10</X>
     <Y>0</Y>
+    <R>0.0</R>
     <NODE>
       <ID>0</ID>
       <LINKTILE>1</LINKTILE>
@@ -36,6 +37,7 @@
     <STRUCTURE></STRUCTURE>
     <X>-8</X>
     <Y>0</Y>
+    <R>0.0</R>
     <NODE>
       <ID>3</ID>
       <LINKTILE>0</LINKTILE>
@@ -61,6 +63,7 @@
     <STRUCTURE></STRUCTURE>
     <X>-6</X>
     <Y>0</Y>
+    <R>0.0</R>
     <NODE>
       <ID>5</ID>
       <LINKTILE>1</LINKTILE>
@@ -102,6 +105,7 @@
     <STRUCTURE></STRUCTURE>
     <X>-4</X>
     <Y>0</Y>
+    <R>0.0</R>
     <NODE>
       <ID>1</ID>
       <LINKTILE>6</LINKTILE>
@@ -127,6 +131,7 @@
     <STRUCTURE></STRUCTURE>
     <X>-2</X>
     <Y>0</Y>
+    <R>0.0</R>
     <NODE>
       <ID>2</ID>
       <LINKTILE>2</LINKTILE>
@@ -152,6 +157,7 @@
     <STRUCTURE></STRUCTURE>
     <X>0</X>
     <Y>0</Y>
+    <R>0.0</R>
     <NODE>
       <ID>0</ID>
       <LINKTILE>6</LINKTILE>
@@ -209,6 +215,7 @@
     <STRUCTURE></STRUCTURE>
     <X>2</X>
     <Y>0</Y>
+    <R>0.0</R>
     <NODE>
       <ID>4</ID>
       <LINKTILE>3</LINKTILE>
@@ -234,6 +241,7 @@
     <STRUCTURE></STRUCTURE>
     <X>4</X>
     <Y>0</Y>
+    <R>0.0</R>
     <NODE>
       <ID>0</ID>
       <LINKTILE>8</LINKTILE>
@@ -259,6 +267,7 @@
     <STRUCTURE></STRUCTURE>
     <X>6</X>
     <Y>0</Y>
+    <R>0.0</R>
     <NODE>
       <ID>0</ID>
       <LINKTILE>9</LINKTILE>
@@ -300,6 +309,7 @@
     <STRUCTURE></STRUCTURE>
     <X>6</X>
     <Y>2</Y>
+    <R>0.0</R>
     <NODE>
       <ID>1</ID>
       <LINKTILE>13</LINKTILE>
@@ -341,6 +351,7 @@
     <STRUCTURE></STRUCTURE>
     <X>4</X>
     <Y>2</Y>
+    <R>0.0</R>
     <NODE>
       <ID>0</ID>
       <LINKTILE>11</LINKTILE>
@@ -366,6 +377,7 @@
     <STRUCTURE></STRUCTURE>
     <X>2</X>
     <Y>2</Y>
+    <R>0.0</R>
     <NODE>
       <ID>0</ID>
       <LINKTILE>12</LINKTILE>
@@ -423,6 +435,7 @@
     <STRUCTURE></STRUCTURE>
     <X>0</X>
     <Y>2</Y>
+    <R>0.0</R>
     <NODE>
       <ID>0</ID>
       <LINKTILE>13</LINKTILE>
@@ -464,6 +477,7 @@
     <STRUCTURE></STRUCTURE>
     <X>-2</X>
     <Y>2</Y>
+    <R>0.0</R>
     <NODE>
       <ID>4</ID>
       <LINKTILE>9</LINKTILE>
@@ -489,6 +503,7 @@
     <STRUCTURE></STRUCTURE>
     <X>-4</X>
     <Y>2</Y>
+    <R>0.0</R>
     <NODE>
       <ID>0</ID>
       <LINKTILE>15</LINKTILE>
@@ -514,6 +529,7 @@
     <STRUCTURE></STRUCTURE>
     <X>-4</X>
     <Y>-2</Y>
+    <R>0.0</R>
     <NODE>
       <ID>2</ID>
       <LINKTILE>17</LINKTILE>
@@ -555,6 +571,7 @@
     <STRUCTURE></STRUCTURE>
     <X>-2</X>
     <Y>-2</Y>
+    <R>0.0</R>
     <NODE>
       <ID>5</ID>
       <LINKTILE>12</LINKTILE>
@@ -580,6 +597,7 @@
     <STRUCTURE></STRUCTURE>
     <X>4</X>
     <Y>-2</Y>
+    <R>0.0</R>
     <NODE>
       <ID>5</ID>
       <LINKTILE>15</LINKTILE>
