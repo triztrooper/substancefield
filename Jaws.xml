@@ -9,9 +9,9 @@
      <NAME>BARRELS</NAME>
      <RESOURCE>1</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>-10.18568</X>
-     <Y>6.128383</Y>
-     <R>45.80141</R>
+     <X>2.889114</X>
+     <Y>-3.872078</Y>
+     <R>302.5638</R>
      <NODE>
          <ID>1</ID>
          <LINKTILE>1</LINKTILE>
@@ -35,9 +35,9 @@
      <NAME>BOUYANCY</NAME>
      <RESOURCE>-1</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>-1.979821</X>
-     <Y>3.778625</Y>
-     <R>80.9054</R>
+     <X>-6.668341</X>
+     <Y>12.95527</Y>
+     <R>239.415</R>
      <NODE>
          <ID>3</ID>
          <LINKTILE>6</LINKTILE>
@@ -61,9 +61,9 @@
      <NAME>STRENGTH</NAME>
      <RESOURCE>-1</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>-3.101465</X>
-     <Y>-0.08157784</Y>
-     <R>25.21565</R>
+     <X>-7.046575</X>
+     <Y>6.593259</Y>
+     <R>78.4172</R>
      <NODE>
          <ID>2</ID>
          <LINKTILE>8</LINKTILE>
@@ -87,9 +87,9 @@
      <NAME>STRENGTH</NAME>
      <RESOURCE>-1</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>1.022808</X>
-     <Y>-0.9389149</Y>
-     <R>6.596797</R>
+     <X>-4.63165</X>
+     <Y>2.98383</Y>
+     <R>316.0692</R>
      <NODE>
          <ID>2</ID>
          <LINKTILE>9</LINKTILE>
@@ -113,9 +113,9 @@
      <NAME>BOUYANCY</NAME>
      <RESOURCE>-1</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>-8.808842</X>
-     <Y>9.938002</Y>
-     <R>43.84932</R>
+     <X>-11.31529</X>
+     <Y>7.43559</Y>
+     <R>337.6185</R>
      <NODE>
          <ID>2</ID>
          <LINKTILE>10</LINKTILE>
@@ -139,9 +139,9 @@
      <NAME>TOXICITY</NAME>
      <RESOURCE>-1</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>-6.910114</X>
-     <Y>0.7698923</Y>
-     <R>343.1168</R>
+     <X>-1.020881</X>
+     <Y>-0.9685763</Y>
+     <R>323.5479</R>
      <NODE>
          <ID>1</ID>
          <LINKTILE>6</LINKTILE>
@@ -165,9 +165,9 @@
      <NAME>SHARK</NAME>
      <RESOURCE>32</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>-10.36168</X>
-     <Y>-4.193367</Y>
-     <R>0.765633</R>
+     <X>3.77799</X>
+     <Y>0.8548979</Y>
+     <R>297.2436</R>
      <NODE>
          <ID>0</ID>
          <LINKTILE>1</LINKTILE>
@@ -223,9 +223,9 @@
      <NAME>STRENGTH</NAME>
      <RESOURCE>-1</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>0.5309834</X>
-     <Y>8.535316</Y>
-     <R>348.5424</R>
+     <X>5.474932</X>
+     <Y>14.2655</Y>
+     <R>327.7484</R>
      <NODE>
          <ID>0</ID>
          <LINKTILE>2</LINKTILE>
@@ -265,9 +265,9 @@
      <NAME>CAGE</NAME>
      <RESOURCE>2</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>4.097946</X>
-     <Y>7.72105</Y>
-     <R>348.5117</R>
+     <X>-1.39107</X>
+     <Y>5.460307</Y>
+     <R>68.79632</R>
      <NODE>
          <ID>0</ID>
          <LINKTILE>3</LINKTILE>
@@ -307,9 +307,9 @@
      <NAME>CRANE</NAME>
      <RESOURCE>8</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>5.92356</X>
-     <Y>-3.668847</Y>
-     <R>1.844489</R>
+     <X>7.967443</X>
+     <Y>-4.76821</Y>
+     <R>272.9775</R>
      <NODE>
          <ID>0</ID>
          <LINKTILE>4</LINKTILE>
@@ -349,9 +349,9 @@
      <NAME>BOAT</NAME>
      <RESOURCE>4</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>-0.1540782</X>
-     <Y>12.40922</Y>
-     <R>342.1698</R>
+     <X>-8.356529</X>
+     <Y>16.20028</Y>
+     <R>119.3536</R>
      <NODE>
          <ID>4</ID>
          <LINKTILE>9</LINKTILE>
@@ -375,9 +375,9 @@
      <NAME>POISON</NAME>
      <RESOURCE>8</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>-5.455935</X>
-     <Y>-3.642464</Y>
-     <R>359.4671</R>
+     <X>7.699791</X>
+     <Y>-0.4045989</Y>
+     <R>355.3041</R>
      <NODE>
          <ID>0</ID>
          <LINKTILE>6</LINKTILE>
@@ -417,9 +417,9 @@
      <NAME>DIVER</NAME>
      <RESOURCE>8</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>-4.794175</X>
-     <Y>8.451159</Y>
-     <R>45.18066</R>
+     <X>-5.678931</X>
+     <Y>-2.139883</Y>
+     <R>123.2923</R>
      <NODE>
          <ID>0</ID>
          <LINKTILE>7</LINKTILE>
@@ -459,16 +459,16 @@
      <NAME>LETHALITY</NAME>
      <RESOURCE>-1</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>-0.2990776</X>
-     <Y>-8.826195</Y>
-     <R>0.899622</R>
+     <X>8.03733</X>
+     <Y>3.561011</Y>
+     <R>12.75307</R>
      <NODE>
          <ID>0</ID>
          <LINKTILE>11</LINKTILE>
          <LINKNODE>3</LINKNODE>
          <VERB>kills</VERB>
-         <VALUE>8</VALUE>
-         <OPERATION>1</OPERATION>
+         <VALUE>1</VALUE>
+         <OPERATION>0</OPERATION>
      </NODE>
      <NODE>
          <ID>1</ID>
@@ -485,9 +485,9 @@
      <NAME>SPEAR</NAME>
      <RESOURCE>8</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>-0.4776824</X>
-     <Y>-4.271165</Y>
-     <R>6.533591</R>
+     <X>-3.037193</X>
+     <Y>9.298402</Y>
+     <R>96.37883</R>
      <NODE>
          <ID>0</ID>
          <LINKTILE>12</LINKTILE>
@@ -527,9 +527,9 @@
      <NAME>STRENGTH</NAME>
      <RESOURCE>-1</RESOURCE>
      <STRUCTURE></STRUCTURE>
-     <X>5.092027</X>
-     <Y>3.466139</Y>
-     <R>336.812</R>
+     <X>6.782969</X>
+     <Y>8.020853</Y>
+     <R>317.482</R>
      <NODE>
          <ID>4</ID>
          <LINKTILE>14</LINKTILE>
