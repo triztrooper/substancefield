@@ -9,6 +9,10 @@
 		<URL>https://raw.githubusercontent.com/triztrooper/substancefield/main/NailAndPlanks.xml</URL>
 	</GAME>
 	<GAME>
+		<NAME>JAWS</NAME>
+		<URL>https://raw.githubusercontent.com/triztrooper/substancefield/main/Jaws.xml</URL>
+	</GAME>
+	<GAME>
 		<NAME>STEAM TRAIN</NAME>
 		<URL>https://raw.githubusercontent.com/triztrooper/substancefield/main/SteamTrain.xml</URL>
 	</GAME>
