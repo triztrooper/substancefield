@@ -19,6 +19,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>2</ID>
@@ -27,6 +28,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -45,6 +47,7 @@
          <VERB>lifts</VERB>
          <VALUE>2</VALUE>
          <OPERATION>0</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>4</ID>
@@ -53,6 +56,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -71,6 +75,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>3</ID>
@@ -79,6 +84,7 @@
          <VERB>blocks</VERB>
          <VALUE>4</VALUE>
          <OPERATION>1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -97,6 +103,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>3</ID>
@@ -105,6 +112,7 @@
          <VERB>lifts</VERB>
          <VALUE>4</VALUE>
          <OPERATION>1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -123,6 +131,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>3</ID>
@@ -131,6 +140,7 @@
          <VERB>supports</VERB>
          <VALUE>2</VALUE>
          <OPERATION>0</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -149,6 +159,7 @@
          <VERB>kills</VERB>
          <VALUE>2</VALUE>
          <OPERATION>0</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>2</ID>
@@ -157,6 +168,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -175,6 +187,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>1</ID>
@@ -183,6 +196,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>2</ID>
@@ -191,6 +205,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>3</ID>
@@ -199,6 +214,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>4</ID>
@@ -207,6 +223,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>5</ID>
@@ -215,6 +232,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -233,6 +251,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>1</ID>
@@ -241,6 +260,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>3</ID>
@@ -249,6 +269,7 @@
          <VERB>eats</VERB>
          <VALUE>2</VALUE>
          <OPERATION>1</OPERATION>
+         <TYPE>1</TYPE>
      </NODE>
      <NODE>
          <ID>4</ID>
@@ -257,6 +278,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -275,6 +297,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>1</ID>
@@ -283,6 +306,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>4</ID>
@@ -291,6 +315,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>5</ID>
@@ -299,6 +324,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -317,6 +343,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>1</ID>
@@ -325,6 +352,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>4</ID>
@@ -333,6 +361,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>5</ID>
@@ -341,6 +370,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -359,6 +389,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>5</ID>
@@ -367,6 +398,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -385,6 +417,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>2</ID>
@@ -393,6 +426,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>3</ID>
@@ -401,6 +435,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>5</ID>
@@ -409,6 +444,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -427,6 +463,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>2</ID>
@@ -435,6 +472,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>3</ID>
@@ -443,6 +481,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>5</ID>
@@ -451,6 +490,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -469,6 +509,7 @@
          <VERB>kills</VERB>
          <VALUE>1</VALUE>
          <OPERATION>0</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>1</ID>
@@ -477,6 +518,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -495,6 +537,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>1</ID>
@@ -503,6 +546,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>4</ID>
@@ -511,6 +555,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>5</ID>
@@ -519,6 +564,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
  <TILE>
@@ -537,6 +583,7 @@
          <VERB>throws</VERB>
          <VALUE>1</VALUE>
          <OPERATION>0</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
      <NODE>
          <ID>5</ID>
@@ -545,6 +592,7 @@
          <VERB></VERB>
          <VALUE>-1</VALUE>
          <OPERATION>-1</OPERATION>
+         <TYPE>0</TYPE>
      </NODE>
  </TILE>
 </SOLUTION>
