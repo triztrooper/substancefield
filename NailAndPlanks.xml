@@ -176,7 +176,7 @@
       <VERB>increase</VERB>
       <VALUE>3</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -204,7 +204,7 @@
       <VERB>join</VERB>
       <VALUE>6</VALUE>
       <OPERATION>1</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
