@@ -65,7 +65,7 @@
       <VERB>interrupt</VERB>
       <VALUE>8</VALUE>
       <OPERATION>1</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -93,7 +93,7 @@
       <VERB>drive</VERB>
       <VALUE>2</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -176,7 +176,7 @@
       <VERB>turn</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>4</ID>
@@ -185,7 +185,7 @@
       <VERB>turn</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>5</ID>
@@ -213,7 +213,7 @@
       <VERB>control</VERB>
       <VALUE>2</VALUE>
       <OPERATION>1</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>2</ID>
@@ -379,7 +379,7 @@
       <VERB>turn</VERB>
       <VALUE>2</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>4</ID>
@@ -407,7 +407,7 @@
       <VERB>connect</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>5</ID>
@@ -435,7 +435,7 @@
       <VERB>energise</VERB>
       <VALUE>2</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>2</ID>
@@ -610,7 +610,7 @@
       <VERB>charge</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -675,7 +675,7 @@
       <VERB>excite</VERB>
       <VALUE>2</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>3</ID>
@@ -700,10 +700,10 @@
       <ID>2</ID>
       <LINKTILE>19</LINKTILE>
       <LINKNODE>5</LINKNODE>
-      <VERB>weaken</VERB>
+      <VERB>weakens</VERB>
       <VALUE>32</VALUE>
       <OPERATION>1</OPERATION>
-      <TYPE>1</TYPE>
+      <TYPE>2</TYPE>
     </NODE>
     <NODE>
       <ID>3</ID>
@@ -731,7 +731,7 @@
       <VERB>support</VERB>
       <VALUE>2</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>2</TYPE>
+      <TYPE>3</TYPE>
     </NODE>
     <NODE>
       <ID>3</ID>
@@ -851,7 +851,7 @@
       <VERB>support</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>3</ID>
@@ -998,7 +998,7 @@
       <VERB>move</VERB>
       <VALUE>2</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -1045,7 +1045,7 @@
       <VERB>move</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>5</ID>
@@ -1073,7 +1073,7 @@
       <VERB>turn</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>5</ID>
@@ -1156,7 +1156,7 @@
       <VERB>drive</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -1267,7 +1267,7 @@
       <VERB>boil</VERB>
       <VALUE>2</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>3</ID>
@@ -1341,7 +1341,7 @@
       <VERB>contain</VERB>
       <VALUE>2</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>4</ID>
@@ -1378,7 +1378,7 @@
       <VERB>ignite</VERB>
       <VALUE>2</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
