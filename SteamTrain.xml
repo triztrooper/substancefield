@@ -56,7 +56,7 @@
       <VERB>ignite</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -130,7 +130,7 @@
       <VERB>contain</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -158,7 +158,7 @@
       <VERB>boils</VERB>
       <VALUE>2</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -278,7 +278,7 @@
       <VERB>turn</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -361,7 +361,7 @@
       <VERB>drive</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>4</ID>
@@ -398,7 +398,7 @@
       <VERB>move</VERB>
       <VALUE>2</VALUE>
       <OPERATION>1</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -527,7 +527,7 @@
       <VERB>reduce</VERB>
       <VALUE>2</VALUE>
       <OPERATION>1</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>3</ID>
@@ -629,7 +629,7 @@
       <VERB>move</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
     <NODE>
       <ID>4</ID>
@@ -666,7 +666,7 @@
       <VERB>move</VERB>
       <VALUE>1</VALUE>
       <OPERATION>0</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
 </SOLUTION>
