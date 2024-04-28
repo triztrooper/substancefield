@@ -143,7 +143,7 @@
     <Y>0</Y>
     <R>0.0</R>
     <NODE>
-      <ID>2</ID>
+      <ID>5</ID>
       <LINKTILE>2</LINKTILE>
       <LINKNODE>2</LINKNODE>
       <VERB></VERB>
@@ -152,7 +152,7 @@
       <TYPE>0</TYPE>
     </NODE>
     <NODE>
-      <ID>3</ID>
+      <ID>0</ID>
       <LINKTILE>5</LINKTILE>
       <LINKNODE>3</LINKNODE>
       <VERB>boils</VERB>
