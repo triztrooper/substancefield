@@ -1189,7 +1189,7 @@
     <NODE>
       <ID>2</ID>
       <LINKTILE>33</LINKTILE>
-      <LINKNODE>2</LINKNODE>
+      <LINKNODE>5</LINKNODE>
       <VERB></VERB>
       <VALUE>-1</VALUE>
       <OPERATION>-1</OPERATION>
@@ -1309,7 +1309,7 @@
     <NODE>
       <ID>3</ID>
       <LINKTILE>33</LINKTILE>
-      <LINKNODE>3</LINKNODE>
+      <LINKNODE>0</LINKNODE>
       <VERB></VERB>
       <VALUE>-1</VALUE>
       <OPERATION>-1</OPERATION>
