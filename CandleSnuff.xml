@@ -9,8 +9,8 @@
     <NAME>PAWL</NAME>
     <RESOURCE>2</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>-2</X>
-    <Y>-5</Y>
+    <X>0</X>
+    <Y>0</Y>
     <R>0.0</R>
     <NODE>
       <ID>2</ID>
@@ -55,8 +55,8 @@
     <NAME>CAP</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>2</X>
-    <Y>-5</Y>
+    <X>0</X>
+    <Y>0</Y>
     <R>0.0</R>
     <NODE>
       <ID>0</ID>
@@ -101,8 +101,8 @@
     <NAME>CANDLE</NAME>
     <RESOURCE>2</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>-8</X>
-    <Y>-5</Y>
+    <X>0</X>
+    <Y>0</Y>
     <R>0.0</R>
     <NODE>
       <ID>0</ID>
@@ -129,8 +129,8 @@
     <NAME>STRENGTH</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>-4</X>
-    <Y>-10</Y>
+    <X>0</X>
+    <Y>0</Y>
     <R>0.0</R>
     <NODE>
       <ID>0</ID>
@@ -158,7 +158,7 @@
     <RESOURCE>2</RESOURCE>
     <STRUCTURE></STRUCTURE>
     <X>0</X>
-    <Y>-10</Y>
+    <Y>0</Y>
     <R>0.0</R>
     <NODE>
       <ID>0</ID>
@@ -203,8 +203,8 @@
     <NAME>STRENGTH</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>4</X>
-    <Y>-10</Y>
+    <X>0</X>
+    <Y>0</Y>
     <R>0.0</R>
     <NODE>
       <ID>4</ID>
@@ -231,7 +231,7 @@
     <NAME>STRENGTH</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>-4</X>
+    <X>0</X>
     <Y>0</Y>
     <R>0.0</R>
     <NODE>
@@ -323,7 +323,7 @@
     <NAME>SEAL</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>4</X>
+    <X>0</X>
     <Y>0</Y>
     <R>0.0</R>
     <NODE>
@@ -351,8 +351,8 @@
     <NAME>HEAT</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>-2</X>
-    <Y>5</Y>
+    <X>0</X>
+    <Y>0</Y>
     <R>0.0</R>
     <NODE>
       <ID>2</ID>
