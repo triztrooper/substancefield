@@ -342,7 +342,7 @@
       <VERB>snuffs</VERB>
       <VALUE>2</VALUE>
       <OPERATION>1</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -370,7 +370,7 @@
       <VERB>weaken</VERB>
       <VALUE>4</VALUE>
       <OPERATION>1</OPERATION>
-      <TYPE>0</TYPE>
+      <TYPE>1</TYPE>
     </NODE>
   </TILE>
 </SOLUTION>
