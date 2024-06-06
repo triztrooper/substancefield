@@ -3,6 +3,7 @@
   <SOLUTIONNAME>STEAM ENGINE</SOLUTIONNAME>
   <EXPLANATION>Well done! Click on this text to find out more.</EXPLANATION>
   <URL>https://medium.com/@drghart/the-steam-train-20086801f9d1</URL>
+  <BACKGROUND>https://raw.githubusercontent.com/triztrooper/substancefield/main/SteamTrain.png</BACKGROUND>
   <TILE>
     <ID>0</ID>
     <TYPE>0</TYPE>

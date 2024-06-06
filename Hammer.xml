@@ -3,6 +3,7 @@
   <SOLUTIONNAME>HAMMER</SOLUTIONNAME>
   <EXPLANATION>Congratulations for completing this game. Click on this text to find out more.</EXPLANATION>
   <URL>https://medium.com/@drghart/a-hammer-d197ad203fe5</URL>
+  <BACKGROUND>https://raw.githubusercontent.com/triztrooper/substancefield/main/Hammer.png</BACKGROUND>
   <TILE>
     <ID>0</ID>
     <TYPE>0</TYPE>

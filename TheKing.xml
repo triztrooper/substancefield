@@ -3,6 +3,7 @@
   <SOLUTIONNAME>THE KING</SOLUTIONNAME>
   <EXPLANATION>Astonishing! How did you do it? Click on this text to find out more.</EXPLANATION>
   <URL>https://drghart.medium.com/the-king-cc112a2ea997</URL>
+  <BACKGROUND>https://raw.githubusercontent.com/triztrooper/substancefield/main/TheKing.png</BACKGROUND>
   <TILE>
     <ID>0</ID>
     <TYPE>0</TYPE>
