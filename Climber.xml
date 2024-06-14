@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SOLUTION>
   <SOLUTIONNAME>CLIMBER</SOLUTIONNAME>
-  <EXPLANATION>This device was invented by Archibald Jenkins in 1884. Click here to read more.</EXPLANATION>
-  <URL>https://gordonhart.substack.com/p/the-advertisement1884</URL>
+  <EXPLANATION>This device was invented by Archibald Jenkins to support the Chetworth South Amercan expediction of 1889. Click here to read more.</EXPLANATION>
+  <URL>https://gordonhart.substack.com/p/the-botanical-climber-1889</URL>
   <BACKGROUND>https://raw.githubusercontent.com/triztrooper/substancefield/main/Climber.png</BACKGROUND>
   <TILE>
     <ID>0</ID>
