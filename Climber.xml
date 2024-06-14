@@ -10,8 +10,8 @@
     <NAME>TREE</NAME>
     <RESOURCE>2</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>-1</X>
-    <Y>5</Y>
+    <X>-8</X>
+    <Y>-5</Y>
     <R>0.0</R>
     <NODE>
       <ID>1</ID>
@@ -38,8 +38,8 @@
     <NAME>STRENGTH</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>2</X>
-    <Y>5</Y>
+    <X>0</X>
+    <Y>0</Y>
     <R>0.0</R>
     <NODE>
       <ID>3</ID>
@@ -66,8 +66,8 @@
     <NAME>FRICTION</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>-4</X>
-    <Y>0</Y>
+    <X>6</X>
+    <Y>-10</Y>
     <R>0.0</R>
     <NODE>
       <ID>1</ID>
@@ -94,8 +94,8 @@
     <NAME>ROPE</NAME>
     <RESOURCE>4</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>0</X>
-    <Y>0</Y>
+    <X>-8</X>
+    <Y>10</Y>
     <R>0.0</R>
     <NODE>
       <ID>0</ID>
@@ -140,8 +140,8 @@
     <NAME>MASS</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>4</X>
-    <Y>0</Y>
+    <X>0</X>
+    <Y>-12</Y>
     <R>0.0</R>
     <NODE>
       <ID>2</ID>
@@ -168,8 +168,8 @@
     <NAME>CLAMP</NAME>
     <RESOURCE>2</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>-2</X>
-    <Y>-5</Y>
+    <X>0</X>
+    <Y>10</Y>
     <R>0.0</R>
     <NODE>
       <ID>0</ID>
@@ -223,8 +223,8 @@
     <NAME>MASS</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>2</X>
-    <Y>-5</Y>
+    <X>-12</X>
+    <Y>0</Y>
     <R>0.0</R>
     <NODE>
       <ID>0</ID>
@@ -269,8 +269,8 @@
     <NAME>BACKPACK</NAME>
     <RESOURCE>1</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>6</X>
-    <Y>-5</Y>
+    <X>-10</X>
+    <Y>5</Y>
     <R>0.0</R>
     <NODE>
       <ID>4</ID>
@@ -297,8 +297,8 @@
     <NAME>STRENGTH</NAME>
     <RESOURCE>-1</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>-4</X>
-    <Y>-10</Y>
+    <X>6</X>
+    <Y>10</Y>
     <R>0.0</R>
     <NODE>
       <ID>0</ID>
@@ -325,8 +325,8 @@
     <NAME>CLIMBER</NAME>
     <RESOURCE>2</RESOURCE>
     <STRUCTURE></STRUCTURE>
-    <X>0</X>
-    <Y>-10</Y>
+    <X>6</X>
+    <Y>0</Y>
     <R>0.0</R>
     <NODE>
       <ID>0</ID>
