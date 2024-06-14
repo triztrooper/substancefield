@@ -17,6 +17,10 @@
 		<URL>https://raw.githubusercontent.com/triztrooper/substancefield/main/SteamTrain.xml</URL>
 	</GAME>
 	<GAME>
+		<NAME>CLIMBER</NAME>
+		<URL>https://raw.githubusercontent.com/triztrooper/substancefield/main/Climber.xml</URL>
+	</GAME>
+	<GAME>
 		<NAME>THE KING</NAME>
 		<URL>https://raw.githubusercontent.com/triztrooper/substancefield/main/TheKing.xml</URL>
 	</GAME>
