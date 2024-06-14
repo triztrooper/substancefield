@@ -85,7 +85,7 @@
       <VERB>fixes</VERB>
       <VALUE>2</VALUE>
       <OPERATION>1</OPERATION>
-      <TYPE>Q</TYPE>
+      <TYPE>0</TYPE>
     </NODE>
   </TILE>
   <TILE>
@@ -118,7 +118,7 @@
     <NODE>
       <ID>4</ID>
       <LINKTILE>2</LINKTILE>
-      <LINKNODE>Q</LINKNODE>
+      <LINKNODE>0</LINKNODE>
       <VERB></VERB>
       <VALUE>-1</VALUE>
       <OPERATION>-1</OPERATION>
