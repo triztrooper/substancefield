@@ -24,7 +24,7 @@
     </NODE>
     <NODE>
       <ID>2</ID>
-      <LINKTILE>4</LINKTILE>
+      <LINKTILE>3</LINKTILE>
       <LINKNODE>5</LINKNODE>
       <VERB></VERB>
       <VALUE>-1</VALUE>
@@ -44,7 +44,7 @@
     <NODE>
       <ID>3</ID>
       <LINKTILE>3</LINKTILE>
-      <LINKNODE>3</LINKNODE>
+      <LINKNODE>0</LINKNODE>
       <VERB>supports</VERB>
       <VALUE>2</VALUE>
       <OPERATION>0</OPERATION>
@@ -118,7 +118,7 @@
     <NODE>
       <ID>4</ID>
       <LINKTILE>2</LINKTILE>
-      <LINKNODE>0</LINKNODE>
+      <LINKNODE>1</LINKNODE>
       <VERB></VERB>
       <VALUE>-1</VALUE>
       <OPERATION>-1</OPERATION>
